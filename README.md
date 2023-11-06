@@ -1,4 +1,4 @@
-# Curso IOT Avanzado
+# Curso IOT Avanzado - Home Assistant
 
 ## CEP Priego-Montilla
 
