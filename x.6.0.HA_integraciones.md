@@ -11,39 +11,8 @@ También existen algunos denominados HACS que ni siquiera están autorizados y q
 
 ## Integraciones aprobadas por HA
 
-## Smart Home o Tuya
-
-* Damos de alta los dispositivos en la aplicación Smart Home o Tuya
-* Creamos cuenta en [Tuya IOT](https://iot.tuya.com/cloud/?id=p1699222959241ncyp7x)
-* Creamos proyecto
-* Añadimos Key para App (escaneando QR con la app)
-
-Cuidado con el datacenter elegido
-
-[Guía para elegir datacenter](https://github.com/tuya/tuya-home-assistant/blob/main/docs/regions_dataCenters.md)
-
-Desde HA añadimos Tuya 
-
-En todo momento podemos recargar los nuevos dispositivos
-
-[Tutorial](https://www.home-assistant.io/integrations/tuya)
+Tuya
 
 ## Integraciones externas autorizadas por HA
 
-## Sonoff
-
-Añadimos el repositorio y ya podemos incluir el complemento
-
-![](./images/HA_sonoff_1.png)
-
-![](./images/HA_sonoff_2.png)
-
-![](./images/HA_sonoff_3.png)
-
-![](./images/HA_sonoff_4.png)
-
-![](./images/HA_sonoff_5.png)
-
-![](./images/HA_sonoff_6.png)
-
-![](./images/HA_sonoff_7.png)
+Sonoff
