@@ -13,3 +13,6 @@ A veces los dispositivos no muestran todos sus entidades
 
 ![](./images/HA_entidades_5.png)
 
+## Historico
+
+![](./images/HA_historico_dispositivo.jpg)

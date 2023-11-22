@@ -16,3 +16,9 @@ Tuya
 ## Integraciones externas autorizadas por HA
 
 Sonoff
+
+## Integraciones de la comunidad no autorizadas HACS
+
+
+TPlink-Tapo
+
