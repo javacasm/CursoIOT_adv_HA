@@ -26,3 +26,5 @@ https://www.zonagadget.com/local-tuya-controlando-dispositivos-tuya-smartlife-en
 https://community.home-assistant.io/t/tuya-smart-ir-with-home-assistant/400211/3
 
 ![](./images/HA_tuya_scene.jpeg)
+
+![](./images/tuya_aire-acondicionado.jpg)
