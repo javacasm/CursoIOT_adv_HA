@@ -1,6 +1,9 @@
 ## Telegram
 
 * Creamos un bot con [@botfather](https://t.me/BotFather) y anotamos el nombre del bot y el HTTP API token
+
+/newbot
+
 * Obtenemos en chatID con [getIDBot](https://t.me/getidsbot)
 * Creamos un Bot de telegram en HA, tenemos que hacerlo directamente en el fichero de configuracion.yaml de HA. Es más sencillo hacerlo con la extensión "Studio Code Server". Añadimos
 

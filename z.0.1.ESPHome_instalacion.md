@@ -5,6 +5,7 @@ Nos permite actualizar la programación desde local con USB o por wifi vía
 Desde [https://web.esphome.io/](https://web.esphome.io/) hacemos una primera instalación 
 
 ![](./images/ESPHome_web.io.png)
+
 Debemos tener conectado el dispositivo por USB
 
 ![](./images/ESPHome_web-USB.png)
@@ -63,3 +64,23 @@ Pudiendo controlar los dispositivos
 ### Actualización
 
 Una vez instalada una configuración, desde el complemento ESPHome podemos añadir componentes y probarlos de manera sencilla y rápida vía OTA
+
+## Primera utilización desde web.esphome.io
+
+Instalamos el firmware básico sin configuración detallada, pero ya con OTA
+
+![](./images/ESPHome_firstUse_prewifi.png)
+
+Configuramos el wifi
+
+Lo detectamos 
+
+![](./images/ESPHome_adopt_HA.png)
+
+y adoptamos desde HA
+
+![](./images/ESPHome_adopted_HA.png)
+
+Desde HA le asignamos un KEY para identificarlo y por seguridad
+
+![](./images/ESPHome_HA_Key.png)

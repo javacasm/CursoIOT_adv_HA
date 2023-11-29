@@ -22,6 +22,8 @@ Desde el addon SSH ejecutamos
 wget -O - https://get.hacs.xyz | bash -
 ```
 
+Cuando termine reiniciamos
+
 que se encargará de preparar nuestro HA para HACS
 
 Añadimos la integración de HACS
