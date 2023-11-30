@@ -6,4 +6,5 @@ Desde la configuración podemos suscribirnos y publicar para comprobar el funcio
 
 ![](./images/MQTT_configuracion.png)
 
-Excelente herramienta [MQTT explorer](https://mqtt-explorer.com/)
+TODO: Excelente herramienta [MQTT explorer](https://mqtt-explorer.com/)
+

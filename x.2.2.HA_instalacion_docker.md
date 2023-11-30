@@ -24,6 +24,9 @@ instalamos docker
 
 [Instalación para 32 bits](https://docs.docker.com/engine/install/raspberry-pi-os/)
 
+
+
+
 docker run -d \
   --name homeassistant \
   --privileged \
