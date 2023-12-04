@@ -1,0 +1,1 @@
+https://fertry.tech/posts/integrar-grafana-home-assistant/

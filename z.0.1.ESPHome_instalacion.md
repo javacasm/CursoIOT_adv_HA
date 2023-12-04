@@ -84,3 +84,7 @@ y adoptamos desde HA
 Desde HA le asignamos un KEY para identificarlo y por seguridad
 
 ![](./images/ESPHome_HA_Key.png)
+
+
+[Tutorial](https://fertry.tech/posts/esp32-esphome-home-assistant/)
+
