@@ -20,6 +20,8 @@ Discusión sobre recursos
 
 instalamos docker
 
+Para que funcione debemos tener un kernel posterior al 5.15
+
 [Instalación para 64 bits](https://docs.docker.com/engine/install/debian/)
 
 [Instalación para 32 bits](https://docs.docker.com/engine/install/raspberry-pi-os/)
