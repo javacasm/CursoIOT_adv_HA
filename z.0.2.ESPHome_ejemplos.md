@@ -247,6 +247,25 @@ sensor:
 
 Para obtener las direcciones creamos la configuración sólo con la parte del HUB y ahí veremos los sensores detectados
 
+Si no hay sensores o no están bien conectados dará un aviso
+
+```log
+[18:34:00][C][dallas.sensor:075]: DallasComponent:
+[18:34:00][C][dallas.sensor:076]:   Pin: GPIO0
+[18:34:00][C][dallas.sensor:077]:   Update Interval: 60.0s
+[18:34:00][W][dallas.sensor:080]:   Found no sensors!
+```
+
+O si lo encuentra
+
+```log
+[18:50:58][C][dallas.sensor:075]: DallasComponent:
+[18:50:58][C][dallas.sensor:076]:   Pin: GPIO2
+[18:50:58][C][dallas.sensor:077]:   Update Interval: 60.0s
+[18:50:58][D][dallas.sensor:082]:   Found sensors:
+[18:50:58][D][dallas.sensor:084]:     0x0503184119feff28
+```
+
 Si necesitamos varios hubs porque tenemos distintos "buses" onewire conectados
 
 ```yaml
