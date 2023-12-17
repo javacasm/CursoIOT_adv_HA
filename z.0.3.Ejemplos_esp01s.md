@@ -1,6 +1,15 @@
 ## Ejemplos ESP01s
 
-El esp01s es la versión más reducida del esp8266 con 1Mb de almacenamiento. Tiene sólo 8 pines de los que podemos usar 4 como GPIO: 0,2,3 y  de los que 
+El esp01s es la versión más reducida del esp8266 con 1Mb de almacenamiento. 
+
+![](./images/modulo-wifi-esp8266-esp-01s-.jpeg)
+
+Tiene sólo 8 pines de los que podemos usar 4 como GPIO: 0, 1, 2, 3 siendo 1 y 3 Tx y Rx del UART (puerto serie). El pin 2 está conectado al led de la placa.
+
+
+![](./images/esp01s_pinout.jpeg)
+
+![](./images/modulo-wifi-esp8266-esp-01s.jpeg)
 
 1. Creamos un nuevo dispositivo en el complemento ESPHome de HomeAssistant
 ![](./images/ESPHome_esp01s_nombre.png)
