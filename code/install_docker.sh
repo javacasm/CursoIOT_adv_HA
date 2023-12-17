@@ -26,6 +26,9 @@ sudo apt-get update
 echo 'Instalando docker'
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
+# Para que docker funcione en kernels antiguos añadimos "systemd.unified_cgroup_hierarchy=0" al final de la línea de
+# setenv bootargs  de /boot/boot/boot.ini 
+
 echo 'ejecuta: sudo docker run hello-world'
 
 # fin 

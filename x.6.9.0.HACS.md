@@ -16,6 +16,8 @@ Incluye:
 
 [Configuración](https://hacs.xyz/docs/configuration/basic)
 
+### Instalación la HA OS+supervisor (full)
+
 Desde el addon SSH ejecutamos 
 
 ```sh
@@ -41,6 +43,8 @@ Autorizamos a HACS para acceder a github usando la autorización OAuth
 ![](./images/HACS_github_code.png)
 
 ![](./images/HACS_github_authorize.png)
+
+### Instalación para container
 
 
 

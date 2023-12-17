@@ -232,6 +232,45 @@ time:
   id: my_time
 ```
 
+### Sensores Dallas - OneWire - DS18x20
+
+```yaml
+
+
+# Individual sensors
+sensor:
+  - platform: dallas
+    address: 0x1c0000031edd2a28
+    name: "Livingroom Temperature"
+
+```
+
+Para obtener las direcciones creamos la configuración sólo con la parte del HUB y ahí veremos los sensores detectados
+
+Si necesitamos varios hubs porque tenemos distintos "buses" onewire conectados
+
+```yaml
+Multiple dallas hubs
+Use this if you have multiple dallas hubs:
+
+# Example configuration entry
+dallas:
+  - pin: GPIO23
+    id: hub_1
+  - pin: GPIO24
+    id: hub_2
+
+sensor:
+  - platform: dallas
+    dallas_id: hub_1
+    # ...
+  - platform: dallas
+    dallas_id: hub_2
+    # ...
+```
+
+[Detalles](https://esphome.io/components/sensor/dallas.html)
+
 ### Matrices LED
 
 
