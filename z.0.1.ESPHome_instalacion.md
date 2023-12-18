@@ -1,5 +1,13 @@
 # Instalación
 
+## Instalación como complento
+
+## Instalación desde docker
+
+https://community.home-assistant.io/t/home-assistant-and-esphome-in-docker/450525
+ 
+## Uso
+
 Nos permite actualizar la programación desde local con USB o por wifi vía
 
 Desde [https://web.esphome.io/](https://web.esphome.io/) hacemos una primera instalación 
