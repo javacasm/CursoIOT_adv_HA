@@ -8,3 +8,9 @@ Local Tuya, nos permite controlar algunos de los dispositivos soportados por Tuy
 ![](./images/UID_local_tuya.png)
 
 ¿Local KEY?
+
+
+Para dispositivos con medida de potencia https://community.home-assistant.io/t/local-tuya-guide-for-complex-devices/474805/2
+
+
+https://www.zonagadget.com/local-tuya-controlando-dispositivos-tuya-smartlife-en-home-assistant-sin-usar-la-nube/

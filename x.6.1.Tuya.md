@@ -17,9 +17,6 @@ En todo momento podemos recargar los nuevos dispositivos
 
 [Tutorial](https://www.home-assistant.io/integrations/tuya)
 
-## Local Tuya
-
-https://www.zonagadget.com/local-tuya-controlando-dispositivos-tuya-smartlife-en-home-assistant-sin-usar-la-nube/
 
 ## Escenas de App Tuya
 
